@@ -1,6 +1,5 @@
 # Sigorta Ödemesi Tahminlemesi
 
----
 ## Tanım
 Bu proje AI Summer Camp'22 kapsamında geliştirdiğimiz ilk projedir. Bu projede [Kaggle](https://www.kaggle.com/datasets/mirichoi0218/insurance?datasetId=13720)'dan almış olduğumuz Kişisel Tıbbi Maliyet verilerini kullandık. Kişilerin sigorta ödemelerini tahmin etmek için yaş, cinsiyet, çocuk sayısı ve yaşadığı bölge gibi bilgileri kullanarak bir regresyon modeli kurduk.
 
