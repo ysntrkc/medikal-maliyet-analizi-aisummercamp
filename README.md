@@ -15,5 +15,5 @@ Bu proje AI Summer Camp'22 kapsamında geliştirdiğimiz ilk projedir. Bu projed
 - Cansu Karahan - [GitHub](https://github.com/ysntrkc) | [LinkedIn](https://www.linkedin.com/in/yasintarakci)
 - Gülnur Ögür - [GitHub](https://github.com/ysntrkc) | [LinkedIn](https://www.linkedin.com/in/yasintarakci)
 - Hatice İkbal Göllüce - [GitHub](https://github.com/ysntrkc) | [LinkedIn](https://www.linkedin.com/in/yasintarakci)
-- Kübra Küçükkartal - [GitHub](https://github.com/ysntrkc) | [LinkedIn](https://www.linkedin.com/in/yasintarakci)
+- Kübra Küçükkartal - [GitHub](https://github.com/hkubrakkartal) | [LinkedIn](https://www.linkedin.com/in/hatice-kubra-kucukkartal/)
 - Ali Mert Kocaman - [GitHub](https://github.com/ysntrkc) | [LinkedIn](https://www.linkedin.com/in/yasintarakci)
